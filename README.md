@@ -1,2 +1,2 @@
 # otuspy-data-analyze
-Analyze wine dataset for OTUS Python homework
+Analyze wine dataset with linear  regression and random forest
